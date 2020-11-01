@@ -1,0 +1,7 @@
+C:\Users\dkuci\source\repos\mogdustin\IT1050-DustinKucinic\Lab02\Lab02\obj\Debug\Lab02.csprojAssemblyReference.cache
+C:\Users\dkuci\source\repos\mogdustin\IT1050-DustinKucinic\Lab02\Lab02\obj\Debug\Lab02.csproj.CoreCompileInputs.cache
+C:\Users\dkuci\source\repos\mogdustin\IT1050-DustinKucinic\Lab02\Lab02\bin\Debug\Lab02.exe.config
+C:\Users\dkuci\source\repos\mogdustin\IT1050-DustinKucinic\Lab02\Lab02\bin\Debug\Lab02.exe
+C:\Users\dkuci\source\repos\mogdustin\IT1050-DustinKucinic\Lab02\Lab02\bin\Debug\Lab02.pdb
+C:\Users\dkuci\source\repos\mogdustin\IT1050-DustinKucinic\Lab02\Lab02\obj\Debug\Lab02.exe
+C:\Users\dkuci\source\repos\mogdustin\IT1050-DustinKucinic\Lab02\Lab02\obj\Debug\Lab02.pdb

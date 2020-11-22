@@ -1,0 +1,7 @@
+C:\Users\dkuci\source\repos\mogdustin\IT1050-DustinKucinic\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\dkuci\source\repos\mogdustin\IT1050-DustinKucinic\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\dkuci\source\repos\mogdustin\IT1050-DustinKucinic\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\dkuci\source\repos\mogdustin\IT1050-DustinKucinic\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+C:\Users\dkuci\source\repos\mogdustin\IT1050-DustinKucinic\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\dkuci\source\repos\mogdustin\IT1050-DustinKucinic\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\dkuci\source\repos\mogdustin\IT1050-DustinKucinic\Lab4\Lab4\obj\Debug\Lab4.pdb

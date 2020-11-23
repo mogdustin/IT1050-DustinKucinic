@@ -1,0 +1,7 @@
+C:\Users\dkuci\source\repos\mogdustin\IT1050-DustinKucinic\testing\testing\obj\Debug\testing.csprojAssemblyReference.cache
+C:\Users\dkuci\source\repos\mogdustin\IT1050-DustinKucinic\testing\testing\obj\Debug\testing.csproj.CoreCompileInputs.cache
+C:\Users\dkuci\source\repos\mogdustin\IT1050-DustinKucinic\testing\testing\bin\Debug\testing.exe.config
+C:\Users\dkuci\source\repos\mogdustin\IT1050-DustinKucinic\testing\testing\bin\Debug\testing.exe
+C:\Users\dkuci\source\repos\mogdustin\IT1050-DustinKucinic\testing\testing\bin\Debug\testing.pdb
+C:\Users\dkuci\source\repos\mogdustin\IT1050-DustinKucinic\testing\testing\obj\Debug\testing.exe
+C:\Users\dkuci\source\repos\mogdustin\IT1050-DustinKucinic\testing\testing\obj\Debug\testing.pdb
